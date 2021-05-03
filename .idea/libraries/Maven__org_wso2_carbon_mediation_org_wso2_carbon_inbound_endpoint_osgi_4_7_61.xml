@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.wso2.carbon.mediation:org.wso2.carbon.inbound.endpoint.osgi:4.7.61">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wso2/carbon/mediation/org.wso2.carbon.inbound.endpoint.osgi/4.7.61/org.wso2.carbon.inbound.endpoint.osgi-4.7.61.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wso2/carbon/mediation/org.wso2.carbon.inbound.endpoint.osgi/4.7.61/org.wso2.carbon.inbound.endpoint.osgi-4.7.61-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wso2/carbon/mediation/org.wso2.carbon.inbound.endpoint.osgi/4.7.61/org.wso2.carbon.inbound.endpoint.osgi-4.7.61-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.axis2:axis2-saaj:1.6.1-wso2v54">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/axis2/axis2-saaj/1.6.1-wso2v54/axis2-saaj-1.6.1-wso2v54.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/axis2/axis2-saaj/1.6.1-wso2v54/axis2-saaj-1.6.1-wso2v54-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/axis2/axis2-saaj/1.6.1-wso2v54/axis2-saaj-1.6.1-wso2v54-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
